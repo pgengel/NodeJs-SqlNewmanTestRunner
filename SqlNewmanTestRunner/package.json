@@ -1,0 +1,13 @@
+{
+  "name": "sql-newman-test-runner",
+  "version": "0.0.0",
+  "description": "SqlNewmanTestRunner",
+  "main": "app.js",
+  "author": {
+    "name": "PG"
+  },
+  "dependencies": {
+    "mssql": "^4.0.4",
+    "newman": "^3.8.1"
+  }
+}
